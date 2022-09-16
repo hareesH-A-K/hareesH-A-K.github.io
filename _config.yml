@@ -16,13 +16,14 @@ minimal: false          # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md",title: "Home"}
+  - {file: "index.md",title: "About" }
   - {file: "Projects.md",title: "Projects"}
+  - {file: "myresume.pdf",title: "CV" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hareesh9910.acad@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/hareesH-A-K"}
-  - {title: Instagram, icon: <i class="fa-brands fa-square-instagram"></i>, url: "https://www.instagram.com/_hareesh_a_k/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_hareesh_a_k/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
