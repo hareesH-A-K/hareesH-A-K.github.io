@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hareesh9910.acad@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/hareesH-A-K"}
+  - {title: Github, icon: github, url: "https://github.com/hareesh-ak"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_hareesh_a_k/"}
 
 comments:
